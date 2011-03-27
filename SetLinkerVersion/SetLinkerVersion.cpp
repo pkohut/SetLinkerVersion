@@ -81,9 +81,6 @@ void ShowHelp(void)
 
 int main(int argc, char * argv[])
 {
-    cout << sizeof(IMAGE_DOS_HEADER) << endl;
-    cout << sizeof(WORD) << endl;
-    exit(0);
     if(argc < 5) {
         ShowHelp();
         return 1; 
