@@ -1,0 +1,4 @@
+<h2>SetLinkerVersion<h2>
+This utility is used to change the major and minor linker version numbers within the PE of a exe and dll. When used within MSVS as a post build step, it will automate an otherwise very manual step. See link below for more details.
+
+http://wired2code.wordpress.com/2011/03/26/c0x-and-objectarx-part-1/
